@@ -1,0 +1,94 @@
+# Build results
+bin/
+obj/
+out/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET temporary files
+*.publishsettings
+.nuget/
+
+# Packages directory
+packages/
+*.nupkg
+*.snupkg
+
+# Rider IDE files
+.idea/
+
+# Visual Studio cache
+.vs/
+*.vssscc
+
+# Logs and database files
+*.log
+*.tlog
+*.sqlite
+*.db
+*.mdf
+*.ldf
+
+# Resharper and StyleCop settings
+_ReSharper*/
+*.DotSettings.user
+stylecop.*
+
+# Web-specific files
+node_modules/
+bower_components/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Config files
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# Docker
+docker-compose.override.yml
+
+# Tools and lock files
+project.lock.json
+project.assets.json
+artifacts/
+
+# IDE and build artifacts
+*.cache
+*.ide
+*.lock.json
+
+# IDE-specific settings
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# Publish build artifacts
+*.publish/
+*.deploy/
+
+# Static analysis and reports
+*.codeanalysis
+
+# OS-specific files
+.DS_Store
+*.swp
+*.swo
